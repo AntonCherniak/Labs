@@ -1,2 +1,2 @@
 # Labs
-There are labs for course of studing java
+There are labs for java studing course
